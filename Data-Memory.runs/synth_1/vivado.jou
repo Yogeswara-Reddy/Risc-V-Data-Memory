@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:35:27 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue May 19 23:59:41 2026
+# Process ID         : 26516
+# Current directory  : C:/Users/yoges/Risc-V-Data-Memory/Data-Memory.runs/synth_1
+# Command line       : vivado.exe -log top_wrapper.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top_wrapper.tcl
+# Log file           : C:/Users/yoges/Risc-V-Data-Memory/Data-Memory.runs/synth_1/top_wrapper.vds
+# Journal file       : C:/Users/yoges/Risc-V-Data-Memory/Data-Memory.runs/synth_1\vivado.jou
+# Running On         : Yogeswara_Reddy
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 13th Gen Intel(R) Core(TM) i5-13450HX
+# CPU Frequency      : 2611 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 16
+# Host memory        : 16849 MB
+# Swap memory        : 14165 MB
+# Total Virtual      : 31015 MB
+# Available Virtual  : 4186 MB
+#-----------------------------------------------------------
+source top_wrapper.tcl -notrace
